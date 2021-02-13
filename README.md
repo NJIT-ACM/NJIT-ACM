@@ -15,3 +15,11 @@ Here are some ideas to get you started:
 
 # ACM ( Association of Computing Machinery ) at NJIT 
 ![](ACMLOGO.png)
+
+
+## TO THIS ACMLOGO DO:
+### ON GITHUB READMEs: 
+`![](https://github.com/NJIT-ACM/NJIT-ACM/blob/main/ACMLOGO.png)`
+
+### Just get the content:
+`https://github.com/NJIT-ACM/NJIT-ACM/blob/main/ACMLOGO.png)`
