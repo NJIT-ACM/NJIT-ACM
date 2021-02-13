@@ -13,13 +13,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# ACM ( Association of Computing Machinery ) at NJIT 
+# ACM _(Association of Computing Machinery)_ at NJIT 
 ![](ACMLOGO.png)
 
 
-## TO THIS ACMLOGO DO:
+## TO USE THIS ACM LOGO DO:
 ### ON GITHUB READMEs: 
 `![](https://github.com/NJIT-ACM/NJIT-ACM/blob/main/ACMLOGO.png)`
 
 ### Just get the content:
-`https://github.com/NJIT-ACM/NJIT-ACM/blob/main/ACMLOGO.png)`
+`https://raw.githubusercontent.com/NJIT-ACM/NJIT-ACM/main/ACMLOGO.png`
