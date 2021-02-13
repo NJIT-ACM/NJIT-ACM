@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 -->
 
 # ACM ( Association of Computing Machinery ) at NJIT 
-![PFP](https://imgur.com/UygVBcC)
+![](https://imgur.com/UygVBcC)
