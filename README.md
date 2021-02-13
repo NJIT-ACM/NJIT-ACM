@@ -23,3 +23,8 @@ Here are some ideas to get you started:
 
 ### Just get the content:
 `https://raw.githubusercontent.com/NJIT-ACM/NJIT-ACM/main/ACMLOGO.png`
+
+## TO UPDATE ACM LOGO:
+* **1. Delete the Current File for ACMLOGO**
+* **2. Upload new file with the type <.png> the name ACMLOGO**
+*   **-> New file should be named ACMLOGO.png**
