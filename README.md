@@ -23,7 +23,7 @@
 ![AOrps](https://github.com/AOrps)
 
 ## Software Used
-![Affinity Designer](https://affinity.serif.com/en-us/designer/)
+[Affinity Designer](https://affinity.serif.com/en-us/designer/)
 
 ## TO UPDATE ACM LOGO:
 * **1. Delete the Current File for ACMLOGO**
