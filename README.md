@@ -26,7 +26,10 @@
 [Affinity Designer](https://affinity.serif.com/en-us/designer/)
 
 ## TO UPDATE ACM LOGO:
+**Note: New file should be named ACMLOGO.png**
+
 * **1. Delete the Current File for ACMLOGO**
 * **2. Upload new file with the type <.png> the name ACMLOGO**
-**Note: New file should be named ACMLOGO.png**
 * Once changed, all Github Repositories that have the image linked will change!
+
+
