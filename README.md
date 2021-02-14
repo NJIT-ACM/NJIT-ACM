@@ -14,7 +14,8 @@
 # LOGO of NJIT-ACM
 ## USAGE:
 ### On Github READMEs: 
-`![](https://github.com/NJIT-ACM/NJIT-ACM/blob/main/ACMLOGO.png)`
+<!-- `![](https://github.com/NJIT-ACM/NJIT-ACM/blob/main/ACMLOGO.png)` -->
+`![](https://raw.githubusercontent.com/NJIT-ACM/NJIT-ACM/main/ACMLOGO.png)`
 
 ### Just get the content:
 `https://raw.githubusercontent.com/NJIT-ACM/NJIT-ACM/main/ACMLOGO.png`
